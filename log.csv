@@ -1,4 +1,4 @@
-Temperature,Voltage,Oil Level,Failure(1 = failed)
+Temperature,Voltage,Oil Level,Failure
 36.75,0.84,6,0
 36.75,0.84,6.1,0
 36.75,0.84,6.09,0
